@@ -2,10 +2,10 @@
 
 <div align="center">
     <b>
-## Murilo Giroldo
+<h1> Murilo Giroldo </h1>h1>
     </b>
       <br>
- **`Desenvolvedor Full Stack` • Fundador da CipherLab™ **
+Desenvolvedor Full Stack` • Fundador da CipherLab™
       <br>
 </div>
 
