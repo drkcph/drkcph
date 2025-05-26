@@ -85,7 +85,7 @@ Ferramentas e tecnologias que utilizo no desenvolvimento de sistemas completos, 
     title="Npm" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.cphlab.xyz/github/profile/development/drk/npm.svg" 
+    src="https://cdn.cphlab.xyz/github/profile/development/drk/npm.png" 
 />
 <img 
     align="left" 
