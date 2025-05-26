@@ -2,7 +2,7 @@
 
 <div align="center">
     <b>
-<h1> Murilo Giroldo </h1>h1>
+<h1> Murilo Giroldo </h1>
     </b>
       <br>
 Desenvolvedor Full Stack` • Fundador da CipherLab™
