@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-## Murilo Giroldo
+<h1 style="font-size: 48px; color: #007acc;">Murilo Giroldo</h1>
     </b>
       <br>
 **`Desenvolvedor Full Stack`** • Fundador da **[CipherLab™](https://www.cphlab.xyz)**
