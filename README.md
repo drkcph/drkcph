@@ -32,6 +32,38 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drkcph?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/drkcph/Simple-View-Counter" target="_blank">
     <img alt="views" title="GitHub profile views" src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_935743.svg"/></a>
+
+  <!-- 📄 Licença principal -->
+  <a href="https://github.com/Larissakich" target="_blank">
+    <img 
+      alt="Licença" 
+      title="Licença mais usada" 
+      src="https://img.shields.io/github/license/Larissakich/cphlab?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=4caf50&labelColor=388e3c"
+    />
+  </a>
+
+  <!-- ⚙️ CI Status (exemplo de workflow) -->
+  <img 
+    alt="CI Status" 
+    title="Status de build/CI" 
+    src="https://img.shields.io/github/actions/workflow/status/Larissakich/nome-do-repo/ci.yml?label=CI&style=for-the-badge&logo=githubactions&logoColor=white"
+  />
+
+  <!-- ☕ Apoie (opcional) -->
+  <a href="https://buymeacoffee.com/seulink" target="_blank">
+    <img 
+      alt="Apoie com um café" 
+      title="Apoie meu trabalho" 
+      src="https://img.shields.io/badge/Buy me a coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=ffcc00"
+    />
+  </a>
+
+  <!-- 💼 Disponível para freelance -->
+  <img 
+    alt="Disponível para freelance" 
+    title="Aceito projetos freelance" 
+    src="https://img.shields.io/badge/Freelance-Disponível-44cc11?style=for-the-badge&logo=simpleicons&logoColor=white&labelColor=36b20f"
+  />
 </p>
 <br/>
 
