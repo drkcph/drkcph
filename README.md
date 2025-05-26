@@ -57,6 +57,14 @@ Ferramentas e tecnologias que utilizo no desenvolvimento de sistemas completos, 
 />
 <img 
     align="left" 
+    alt="XAMPP" 
+    title="XAMPP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.cphlab.xyz/github/profile/development/drk/xampp.svg" 
+/>
+<img 
+    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="30px" 
@@ -128,15 +136,6 @@ Ferramentas e tecnologias que utilizo no desenvolvimento de sistemas completos, 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="XAMPP" 
-    title="XAMPP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.cphlab.xyz/github/profile/development/drk/xampp.svg" 
 />
 
 <br/>
