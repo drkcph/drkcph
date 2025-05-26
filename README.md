@@ -73,7 +73,6 @@ processos e elevam a experiência do usuário, sempre com qualidade e inovação
 Ferramentas e tecnologias que utilizo no desenvolvimento de sistemas completos, desde interfaces modernas até
 integrações com bancos de dados, APIs e automações de infraestrutura.
 
-<div align="center">
 <a href="#">
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -112,10 +111,6 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </a>
-</div>
-<br />
-<br />
-
 ---
 
 ![Github activity](https://github-readme-activity-graph.vercel.app/graph?username=drkcph&bg_color=0D1117&color=4f56dd&line=4f56dd&point=4f56dd&area=true&hide_border=true)
