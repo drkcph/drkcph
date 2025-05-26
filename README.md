@@ -50,7 +50,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
   <img 
     alt="Disponível para freelance" 
     title="Aceito projetos freelance" 
-    src="https://img.shields.io/badge/Freelance-Disponível-44cc11?style=for-the-badge&logo=simpleicons&logoColor=white&labelColor=36b20f"
+    src="https://img.shields.io/badge/teste teste-Disponível-44cc11?style=for-the-badge&logo=simpleicons&logoColor=white&labelColor=36b20f"
   />
   </a>
 
