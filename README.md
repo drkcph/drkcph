@@ -12,7 +12,7 @@ backend eficientes e interfaces adaptadas para ambientes específicos. Nosso foc
 processos e elevam a experiência do usuário, sempre com qualidade e inovação.
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdrkcph&s=21&c=4f56dd&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdrkcph&s=21&c=fff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
 <p align="center">
