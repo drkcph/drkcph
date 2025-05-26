@@ -1,14 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4f56dd"/>
 
 <div align="center">
-  <samp>
     <b>
 <h1>Murilo Giroldo</h1>
     </b>
       <br>
-<p>**`Desenvolvedor Full Stack`** • **Fundador da CipherLab™**</p>
+ Desenvolvedor Full Stack • Fundador da CipherLab™
       <br>
-  </samp>
 </div>
 
 ---
