@@ -76,7 +76,7 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
 <a href="#" align="center">
 <img  align="center" alt="HTML" title="HTML" width="30px" style="padding-right: 20px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img  alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
+<img  align="center" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img  alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
