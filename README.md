@@ -112,6 +112,10 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
 
 ---
 
+![Github activity](https://github-readme-activity-graph.vercel.app/graph?username=drkcph&bg_color=4f56dd&color=c200fb&line=4f56dd&point=ab51e3&area=true&hide_border=true)
+
+---
+
 <p align="center">
   <a href="#">
     <img src="https://cdn.cphlab.xyz/github/profile/banner/drk/dfphxwp-4e0e4481-446a-45c8-a0d5-b2d6e4f3c166.jpg"
