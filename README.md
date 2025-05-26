@@ -5,13 +5,13 @@
 <h1> Murilo Giroldo </h1>
     </b>
       <br>
-Desenvolvedor Full Stack • Fundador da CipherLab™
+Desenvolvedor Full Stack Pleno • Fundador da CipherLab™
       <br>
 </div>
 
 ---
 
-Sou Murilo, desenvolvedor full stack com 2 anos de experiência focado na criação de soluções digitais personalizadas e
+Sou Murilo, desenvolvedor full stack Pleno com 2 anos de experiência focado na criação de soluções digitais personalizadas e
 escaláveis. Minha atuação envolve automação de processos, desenvolvimento de interfaces modernas e responsivas, além da
 integração robusta entre sistemas utilizando tecnologias consolidadas e melhores práticas de mercado.
 
