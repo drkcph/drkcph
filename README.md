@@ -1,86 +1,132 @@
-# 🤖 Murilo
+# 🤖 Murilo “drkcph”
 
-**`Desenvolvedor FullStack | Node.js | JavaScript | Lua`**
+**`FullStack Engineer · Node.js · JavaScript · Lua · PHP`**
 
-Sou Murilo, desenvolvedor full-stack com 2 anos de experiência na entrega de soluções digitais sob medida. Especialista em automação de processos, criação de interfaces modernas e integração de sistemas corporativos. À frente da [CPHLAB](https://www.cphlab.xyz), forneço softwares sob demanda: aplicações web, painéis administrativos, bots automatizados e scripts para servidores FiveM.
+> Desenvolvedor full-stack com 2 anos de experiência, criando soluções sob medida:  
+> automações backend, interfaces responsivas e scripts para servidores FiveM.  
+> Líder técnico na [CPHLAB](https://www.cphlab.xyz) — construindo software que escala.
 
 <p align="center">
-  <!-- 🌐 Site Oficial -->
+  <!-- SITE -->
   <a href="https://www.cphlab.xyz" target="_blank">
-    <img
-      alt="Site Oficial"
-      title="Visite o site oficial"
-      src="https://img.shields.io/badge/SITE-CPHLAB-4f56dd?style=for-the-badge&logo=google-chrome&logoColor=white"
-    />
+    <img alt="Site" src="https://img.shields.io/badge/🌐-CPHLAB-4f56dd?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <!-- 📂 GitHub Repos -->
-  <a href="https://github.com/SEU_USUARIO?tab=repositories" target="_blank">
-    <img
-      alt="Repositórios Públicos"
-      title="Repositórios Públicos"
-      src="https://img.shields.io/badge/REPOS-★-6f42c1?style=for-the-badge&logo=github&logoColor=white"
-    />
+  <!-- DISCORD -->
+  <a href="https://www.cphlab.xyz/discord" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge&logo=discord"/>
   </a>
-  <!-- ⭐ GitHub Stars -->
-  <a href="https://github.com/SEU_USUARIO?tab=stars" target="_blank">
-    <img
-      alt="Estrelas no GitHub"
-      title="Estrelas no GitHub"
-      src="https://img.shields.io/badge/STARS-⭐-ffc107?style=for-the-badge&logo=star&logoColor=white&labelColor=ffaa00"
-    />
+  <!-- GITHUB REPOS -->
+  <a href="https://github.com/drkcph?tab=repositories" target="_blank">
+    <img alt="Repositórios" src="https://img.shields.io/badge/📂-Repos-6f42c1?style=for-the-badge&logo=github"/>
   </a>
-  <!-- 👥 Seguidores -->
-  <a href="https://github.com/SEU_USUARIO?tab=followers" target="_blank">
-    <img
-      alt="Seguidores no GitHub"
-      title="Me siga no GitHub"
-      src="https://img.shields.io/badge/FOLLOWERS-👥-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba"
-    />
+  <!-- STARS -->
+  <a href="https://github.com/drkcph?tab=stars" target="_blank">
+    <img alt="Estrelas" src="https://img.shields.io/badge/⭐-Stars-ffc107?style=for-the-badge"/>
   </a>
-  <!-- 🕒 Commits Ano -->
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
-    <img
-      alt="Commits neste ano"
-      title="Commits em 2025"
-      src="https://img.shields.io/badge/COMMITS 2025-⌛-8a2be2?style=for-the-badge&logo=git&logoColor=white&labelColor=blueviolet"
-    />
+  <!-- FOLLOWERS -->
+  <a href="https://github.com/drkcph?tab=followers" target="_blank">
+    <img alt="Seguidores" src="https://img.shields.io/badge/👥-Followers-236ad3?style=for-the-badge"/>
+  </a>
+  <!-- COMMITS -->
+  <a href="https://github.com/drkcph" target="_blank">
+    <img alt="Commits 2025" src="https://img.shields.io/badge/⌛-Commits%202025-8a2be2?style=for-the-badge&logo=git"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🛠 Tech Stack & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="32px" style="margin-right:8px;"/>
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="Node.js"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="Lua"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="PHP"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="HTML5"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="CSS3"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="MySQL"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="MariaDB"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="React"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="TailwindCSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" style="margin-right:8px;"/>
+  <img title="Docker"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="Git"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="margin-right:8px;"/>
+  <img title="WakaTime"     src="https://wakatime.com/badge/user/EXEMPLO.svg" width="30px" style="margin-right:8px;"/>
 </p>
 
 ---
 
-## 🚀 Minhas Entregas
+## 🚀 Conquistas & Métricas
 
-- **Bots Automatizados** (Node.js): sistemas de moderação e automação personalizados  
-- **Scripts FiveM (Lua):** mecânicas gamificadas e funcionalidades avançadas  
-- **Websites & Dashboards:** HTML5, CSS3, UX/UI, responsividade e performance  
-- **APIs & Back-end:** Node.js (Express), PHP (POO), integrações REST e Webhooks  
-- **Banco de Dados:** modelagem, queries otimizadas em MySQL e MariaDB  
-- **CI/CD & Deploy:** GitHub Actions, Docker, GitFlow, deploy em servidores cloud  
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=drkcph&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkcph&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%"/>
+</div>
+
+> **Destaques:**  
+> - Mais de X repositórios com ⭐ média de Y  
+> - Streak atual de Z dias :contentReference[oaicite:7]{index=7}  
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&langs_count=8" alt="Top Languages" width="49%"/>
-</div>
+## 🔄 Widgets Dinâmicos
+
+| Widget                   | Descrição                                                   |
+|--------------------------|-------------------------------------------------------------|
+| Now Playing Spotify      | `![Spotify](https://spotify-readme.vercel.app/api/spotify)` :contentReference[oaicite:8]{index=8} |
+| Goodreads Current Book   | `![Goodreads](https://goodreads-readme.vercel.app/api/book?user=EXEMPLO)` :contentReference[oaicite:9]{index=9} |
+| npm Downloads            | `![npm](https://img.shields.io/npm/dm/seu-pacote)` :contentReference[oaicite:10]{index=10} |
+| Random Dev Quote         | `![Quote](https://quotes-github-readme.vercel.app/api?type=dev)` :contentReference[oaicite:11]{index=11} |
+
+---
+
+## 📂 Projetos em Destaque
+
+<details>
+<summary>Clique para expandir</summary>
+
+| Projeto               | Tech                        | Link                                           |
+|-----------------------|-----------------------------|------------------------------------------------|
+| Snake GIF Generator   | Node.js, GitHub Actions     | [repo](https://github.com/drkcph/snake-action) |
+| Painel Admin CPHLAB   | React, Tailwind, Node.js    | [demo](https://cphlab.xyz/dashboard)           |
+| Sistema de Tickets    | Discord.js, MySQL           | [repo](https://github.com/drkcph/tickets-bot)  |
+| FiveM Script Framework| Lua                         | [repo](https://github.com/drkcph/fivem-scripts)|
+  
+</details> :contentReference[oaicite:12]{index=12}
+
+---
+
+## 🌐 Integrações & Links Úteis
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/drkcph" target="_blank">LinkedIn</a> • 
+  <a href="https://twitter.com/drkcph" target="_blank">Twitter</a> • 
+  <a href="https://dev.to/drkcph" target="_blank">Dev.to</a> • 
+  <a href="https://medium.com/@drkcph" target="_blank">Medium</a>  
+</p> :contentReference[oaicite:13]{index=13}
+
+---
+
+## 📫 Contato & Contratações
+
+- 📧 Email: murilo@cphlab.xyz  
+- 📄 CV: [Download PDF](https://www.cphlab.xyz/cv.pdf)  
+- 🤝 Aberto a propostas de parcerias, freelas e contratações.  
+
+---
+
+## 🎨 Extras & “Fun Stuff”
+
+- 🏆 **GitHub Trophies**: `![Trophies](https://github-profile-trophy.vercel.app/?username=drkcph)` :contentReference[oaicite:14]{index=14}  
+- 🌍 **Visitantes**: `![Visitor](https://visitor-badge.laobi.icu/badge?page_id=drkcph.drkcph)` :contentReference[oaicite:15]{index=15}  
+- 📅 **Dia & Hora (UTC)**: `![UTC](https://show-my-current-time.herokuapp.com/api?timezone=America/Sao_Paulo)` :contentReference[oaicite:16]{index=16}  
+- 🚧 **Status do CI**: `![CI](https://github.com/drkcph/drkcph/actions/workflows/ci.yml/badge.svg)` :contentReference[oaicite:17]{index=17}  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+
+---
+
+*Feito com ❤️ por Murilo — drkcph*  
