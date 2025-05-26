@@ -118,3 +118,5 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
     <img src="https://cdn.cphlab.xyz/github/profile/banner/drk/vijr80u543j_r4390g8gh453&043-g-34.png"
       alt="GitHub Star 2023" /></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f56dd&height=100&section=footer"/>
