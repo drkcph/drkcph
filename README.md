@@ -112,7 +112,7 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
 
 ---
 
-![Github activity](https://github-readme-activity-graph.vercel.app/graph?username=drkcph&bg_color=4f56dd&color=c200fb&line=4f56dd&point=ab51e3&area=true&hide_border=true)
+![Github activity](https://github-readme-activity-graph.vercel.app/graph?username=drkcph&bg_color=0D1117&color=c200fb&line=4f56dd&point=4f56dd&area=true&hide_border=true)
 
 ---
 
