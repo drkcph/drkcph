@@ -1,6 +1,7 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Murilo
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=drkcph&theme=darkhub)
 
 **`Desenvolvedora FullStack`**
 
