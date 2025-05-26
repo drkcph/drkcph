@@ -1,4 +1,4 @@
-# 👨‍💻 Murilo Giroldo
+# 👨🏻‍🎓 Murilo Giroldo
 
 ### **`Desenvolvedor Full Stack`** • Fundador da **[CipherLab™](https://www.cphlab.xyz)**  
 
