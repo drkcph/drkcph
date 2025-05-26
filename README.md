@@ -32,7 +32,7 @@ Atualmente, lidero a **[CipherLab™](https://www.cphlab.xyz)**, uma empresa esp
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drkcph?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/drkcph?tab=followers" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drkcph?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/drkcph/Simple-View-Counter" target="_blank">
+  <a href="https://github.com/drkcph/Simple-View-Counter" target="_blank" style="pointer-events: none">
     <img alt="views" title="GitHub profile views" src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_935743.svg"/></a>
 </p>
 <br/>
