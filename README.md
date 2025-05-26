@@ -36,14 +36,13 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 <br/>
 
 <p  align="center">
-  <!-- ☕ Apoie (opcional) -->
-  <a href="https://buymeacoffee.com/seulink" target="_blank">
-    <img 
-      alt="Apoie com um café" 
-      title="Apoie meu trabalho" 
-      src="https://img.shields.io/badge/Buy me a coffee-FFDD00?&logo=buymeacoffee&logoColor=black&labelColor=ffcc00"
-    />
-  </a>
+  <!-- ⚙️ CI Status (exemplo de workflow) -->
+  <img 
+    alt="CI Status" 
+    title="Status de build/CI" 
+    src="https://img.shields.io/github/actions/workflow/status/Larissakich/nome-do-repo/ci.yml?label=CI&style=for-the-badge&logo=githubactions&logoColor=white"
+  />
+
 
 <a>
   <!-- 💼 Disponível para freelance -->
