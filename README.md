@@ -1,7 +1,4 @@
-# 👩🏻‍💻 Murilo
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-![Contador de Visitas](https://komarev.com/ghpvc/?username=drkcph&color=blueviolet&style=for-the-badge)
+## 🤖 Murilo Giroldo
 
 **`Desenvolvedora FullStack`**
 
