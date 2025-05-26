@@ -90,7 +90,7 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="hs" title="hs" width="30px" style="padding-right: 10px;"
-  src="https://cdn.cphlab.xyz/github/profile/development/drk/hs.svg" />
+  src="https://cdn.cphlab.xyz/github/profile/development/drk/hs.png" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;"
