@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Murilo
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=drkcph&layout=compact&theme=radical)
+![Contador de Visitas](https://komarev.com/ghpvc/?username=drkcph&color=blueviolet&style=for-the-badge)
 
 **`Desenvolvedora FullStack`**
 
