@@ -39,7 +39,7 @@ processos e elevam a experiência do usuário, sempre com qualidade e inovação
 
   <a href="#">
     <img alt="views" title="GitHub profile views"
-      src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_935743.svg"/>
+      src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_9357432.svg"/>
   </a>
 </p>
 <br />
