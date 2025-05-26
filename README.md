@@ -21,9 +21,6 @@ processos e elevam a experiência do usuário, sempre com qualidade e inovação
     <img alt="Discord" title="Nosso servidor no Discord"
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/cipherlabtm?sub_confirmation=1" target="_blank">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel"
-      src="https://cdn.cphlab.xyz/github/profile/badges/drk/youtube-2.svg" /></a>
   <a href="https://www.youtube.com/c/cipherlabtm" target="_blank">
     <img alt="youtube views" title="YouTube views"
       src="https://cdn.cphlab.xyz/github/profile/badges/drk/view.svg" /></a>
