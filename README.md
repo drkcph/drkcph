@@ -1,6 +1,15 @@
-# ⚡ Murilo Giroldo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
-### **`Desenvolvedor Full Stack`** • Fundador da **[CipherLab™](https://www.cphlab.xyz)**
+<div align="center">
+  <samp>
+    <b>
+      Murilo Giroldo
+    </b>
+      <br>
+**`Desenvolvedor Full Stack`** • Fundador da **[CipherLab™](https://www.cphlab.xyz)**
+      <br>
+  </samp>
+</div>
 
 Sou Murilo, desenvolvedor full stack com 2 anos de experiência focado na criação de soluções digitais personalizadas e
 escaláveis. Minha atuação envolve automação de processos, desenvolvimento de interfaces modernas e responsivas, além da
