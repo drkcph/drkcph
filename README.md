@@ -2,7 +2,9 @@
 
 ### **`Desenvolvedor Full Stack`** • Fundador da **[CipherLab™](https://www.cphlab.xyz)**  
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou Murilo, desenvolvedor full stack com 2 anos de experiência focado na criação de soluções digitais personalizadas e escaláveis. Minha atuação envolve automação de processos, desenvolvimento de interfaces modernas e responsivas, além da integração robusta entre sistemas utilizando tecnologias consolidadas e melhores práticas de mercado.
+
+Atualmente, lidero a **[CipherLab™](https://www.cphlab.xyz)**, uma empresa especializada no desenvolvimento sob demanda de softwares customizados, que abrangem desde aplicações web dinâmicas e sistemas de gerenciamento até automações backend eficientes e interfaces adaptadas para ambientes específicos. Nosso foco está em entregar soluções que otimizam processos e elevam a experiência do usuário, sempre com qualidade e inovação.
 
 <p align="center">
   <!-- 🌐 Site Oficial -->
