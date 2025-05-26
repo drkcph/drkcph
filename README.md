@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Murilo
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=drkcph&theme=darkhub)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=drkcph&layout=compact&theme=radical)
 
 **`Desenvolvedora FullStack`**
 
