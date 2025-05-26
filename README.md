@@ -1,203 +1,86 @@
 # 🤖 Murilo
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Node.js | JavaScript | Lua`**
 
-Sou Murilo, desenvolvedor full stack com 2 anos de experiência na criação de soluções digitais personalizadas. Atuo com foco em automação, interfaces modernas e integração entre sistemas, utilizando tecnologias consolidadas no mercado.
-Atualmente lidero a CPHLAB, empresa especializada em desenvolvimento de softwares sob demanda, como aplicações web, sistemas de gerenciamento, automações backend e interfaces para ambientes personalizados.
+Sou Murilo, desenvolvedor full-stack com 2 anos de experiência na entrega de soluções digitais sob medida. Especialista em automação de processos, criação de interfaces modernas e integração de sistemas corporativos. À frente da [CPHLAB](https://www.cphlab.xyz), forneço softwares sob demanda: aplicações web, painéis administrativos, bots automatizados e scripts para servidores FiveM.
 
-<p align="left">
-
+<p align="center">
   <!-- 🌐 Site Oficial -->
   <a href="https://www.cphlab.xyz" target="_blank">
-    <img 
-      alt="Site Oficial" 
-      title="Visite o site oficial" 
-      src="https://img.shields.io/badge/Site Oficial-4f56dd?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=3e45c9"
+    <img
+      alt="Site Oficial"
+      title="Visite o site oficial"
+      src="https://img.shields.io/badge/SITE-CPHLAB-4f56dd?style=for-the-badge&logo=google-chrome&logoColor=white"
     />
   </a>
-
-  <!-- 💬 Discord -->
-  <a href="https://www.cphlab.xyz/discord" target="_blank">
-    <img 
-      alt="Discord" 
-      title="Nosso servidor no Discord" 
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+  <!-- 📂 GitHub Repos -->
+  <a href="https://github.com/SEU_USUARIO?tab=repositories" target="_blank">
+    <img
+      alt="Repositórios Públicos"
+      title="Repositórios Públicos"
+      src="https://img.shields.io/badge/REPOS-★-6f42c1?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-
-  <!-- 📁 Repositórios -->
-  <a href="https://github.com/drkcph?tab=repositories" target="_blank">
-    <img 
-      alt="Repositórios Públicos" 
-      title="Total de repositórios públicos" 
-      src="https://custom-icon-badges.demolab.com/github/repos/drkcph?color=6f42c1&label=Repositórios&labelColor=5a32a3&logo=github&style=for-the-badge"
+  <!-- ⭐ GitHub Stars -->
+  <a href="https://github.com/SEU_USUARIO?tab=stars" target="_blank">
+    <img
+      alt="Estrelas no GitHub"
+      title="Estrelas no GitHub"
+      src="https://img.shields.io/badge/STARS-⭐-ffc107?style=for-the-badge&logo=star&logoColor=white&labelColor=ffaa00"
     />
   </a>
-
-  <!-- ⭐ Estrelas -->
-  <a href="https://github.com/drkcph?tab=repositories&sort=stargazers" target="_blank">
-    <img 
-      alt="Estrelas no GitHub" 
-      title="Total de estrelas recebidas" 
-      src="https://custom-icon-badges.demolab.com/github/stars/drkcph?color=ffc107&style=for-the-badge&labelColor=ffaa00&logo=star&label=Estrelas"
-    />
-  </a>
-
   <!-- 👥 Seguidores -->
-  <a href="https://github.com/drkcph?tab=followers" target="_blank">
-    <img 
-      alt="Seguidores no GitHub" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/drkcph?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+  <a href="https://github.com/SEU_USUARIO?tab=followers" target="_blank">
+    <img
+      alt="Seguidores no GitHub"
+      title="Me siga no GitHub"
+      src="https://img.shields.io/badge/FOLLOWERS-👥-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba"
     />
   </a>
-
-  <!-- 🕒 Commits no ano -->
-  <a href="https://github.com/drkcph" target="_blank">
-    <img 
-      alt="Commits em 2025" 
-      title="Commits neste ano" 
-      src="https://custom-icon-badges.demolab.com/github/commits-this-year/drkcph?style=for-the-badge&color=blueviolet&labelColor=8a2be2&logo=git&logoColor=white&label=Commits"
+  <!-- 🕒 Commits Ano -->
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img
+      alt="Commits neste ano"
+      title="Commits em 2025"
+      src="https://img.shields.io/badge/COMMITS 2025-⌛-8a2be2?style=for-the-badge&logo=git&logoColor=white&labelColor=blueviolet"
     />
   </a>
-
 </p>
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠 Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="32px" style="margin-right:8px;"/>
 </p>
+
+---
+
+## 🚀 Minhas Entregas
+
+- **Bots Automatizados** (Node.js): sistemas de moderação e automação personalizados  
+- **Scripts FiveM (Lua):** mecânicas gamificadas e funcionalidades avançadas  
+- **Websites & Dashboards:** HTML5, CSS3, UX/UI, responsividade e performance  
+- **APIs & Back-end:** Node.js (Express), PHP (POO), integrações REST e Webhooks  
+- **Banco de Dados:** modelagem, queries otimizadas em MySQL e MariaDB  
+- **CI/CD & Deploy:** GitHub Actions, Docker, GitFlow, deploy em servidores cloud  
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook&langs_count=8" alt="Top Languages" width="49%"/>
+</div>
