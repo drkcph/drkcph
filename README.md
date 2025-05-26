@@ -41,7 +41,10 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
       src="https://img.shields.io/github/license/Larissakich/cphlab?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=4caf50&labelColor=388e3c"
     />
   </a>
+</p>
+<br/>
 
+<p  align="center">
   <!-- ☕ Apoie (opcional) -->
   <a href="https://buymeacoffee.com/seulink" target="_blank">
     <img 
@@ -58,7 +61,6 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     src="https://img.shields.io/badge/Freelance-Disponível-44cc11?style=for-the-badge&logo=simpleicons&logoColor=white&labelColor=36b20f"
   />
 </p>
-<br/>
 
 ---
 
