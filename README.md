@@ -21,6 +21,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 ---
 
 ### 🤖 Linguagens e Tecnologias
+Essas asdasdasdasda
 
 <img 
     align="left" 
