@@ -14,7 +14,7 @@ processos e elevam a experiência do usuário, sempre com qualidade e inovação
 <p align="center">
   <a href="https://www.cphlab.xyz" target="_blank">
     <img alt="Site Oficial" title="Visite o site oficial"
-      src="https://img.shields.io/badge/Site Oficial-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      src="https://img.shields.io/badge/Website-6f42c1?style=for-the-badge&logo=qlik&logoColor=white" />
   </a>
 
   <a href="https://www.cphlab.xyz/discord" target="_blank">
