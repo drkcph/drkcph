@@ -8,7 +8,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
   <a href="https://www.youtube.com/c/cipherlabtm?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://cdn.cphlab.xyz/github/profile/badges/drk/youtube-2.svg"/></a>
   <a href="https://www.youtube.com/c/cipherlabtm">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://cdn.cphlab.xyz/github/profile/badges/drk/view.svg"/></a> 
   <a href="https://github.com/drkcph?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drkcph?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/drkcph?tab=followers">
