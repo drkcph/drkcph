@@ -6,7 +6,7 @@
 <h1>Murilo Giroldo</h1>
     </b>
       <br>
-**`Desenvolvedor Full Stack`** • **Fundador da CipherLab™**
+<p>**`Desenvolvedor Full Stack`** • **Fundador da CipherLab™**</p>
       <br>
   </samp>
 </div>
