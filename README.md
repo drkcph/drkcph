@@ -36,6 +36,14 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
+<a href="https://github.com/drkcph" target="_blank">
+  <img 
+    alt="Contador de Visitantes" 
+    title="Total de visitantes no perfil" 
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdrkcph&count_bg=%237B61FF&title_bg=%235245CC&icon=github.svg&icon_color=%23ffffff&title=Visitantes&edge_flat=false&style=for-the-badge"
+  />
+</a>
 </p>
 
 ---
