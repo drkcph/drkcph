@@ -11,6 +11,9 @@
   </samp>
 </div>
 
+<br>
+---
+
 Sou Murilo, desenvolvedor full stack com 2 anos de experiência focado na criação de soluções digitais personalizadas e
 escaláveis. Minha atuação envolve automação de processos, desenvolvimento de interfaces modernas e responsivas, além da
 integração robusta entre sistemas utilizando tecnologias consolidadas e melhores práticas de mercado.
