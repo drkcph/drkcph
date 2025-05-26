@@ -44,7 +44,7 @@ Atualmente, lidero a **[CipherLab™](https://www.cphlab.xyz)**, uma empresa esp
     <img 
       alt="Pull Requests" 
       title="Total de pull requests criadas" 
-      src="https://img.shields.io/badge/Pull Requests-00bcd4?style=for-the-badge&logo=github&logoColor=white&labelColor=0097a7"
+      src="https://img.shields.io/badge/Repositórios-4-00bcd4?style=for-the-badge&logo=github&logoColor=white&labelColor=0097a7"
     />
   </a>
 
