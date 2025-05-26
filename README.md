@@ -115,9 +115,9 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
 ---
 
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
+  <a href="#">
     <img src="https://cdn.cphlab.xyz/github/profile/banner/drk/dfphxwp-4e0e4481-446a-45c8-a0d5-b2d6e4f3c166.jpg"
-      alt="GitHub Star 2023" /></a>
+      alt="Low" /></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f56dd&height=100&section=footer"/>
