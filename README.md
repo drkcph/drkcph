@@ -16,14 +16,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
   <a href="https://github.com/drkcph/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_935743.svg"/></a>
 </p>
-
 <br/>
-
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://cdn.cphlab.xyz/github/profile/banner/drk/vijr80u543j_r4390g8gh453&043-g-34.png" alt="GitHub Star 2023"/></a>
-</p>
 
 ---
 
@@ -163,4 +156,9 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://cdn.cphlab.xyz/github/profile/banner/drk/vijr80u543j_r4390g8gh453&043-g-34.png" alt="GitHub Star 2023"/></a>
 </p>
