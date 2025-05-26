@@ -20,8 +20,8 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-Essas asdasdasdasda
+### 🤖 Linguagens e Tecnologias  
+Ferramentas e tecnologias que utilizo no desenvolvimento de sistemas completos, desde interfaces modernas até integrações com bancos de dados, APIs e automações de infraestrutura.
 
 <img 
     align="left" 
