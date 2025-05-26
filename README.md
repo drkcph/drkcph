@@ -48,7 +48,7 @@ Atualmente, lidero a **[CipherLab™](https://www.cphlab.xyz)**, uma empresa esp
     />
   </a>
 
-  <a>
+  <a href="https://www.cphlab.xyz/discord" target="_blank">
   <img 
     alt="Disponível para freelance" 
     title="Aceito projetos freelance" 
