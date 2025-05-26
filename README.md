@@ -138,6 +138,8 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 <br/>
 <br/>
 
+---
+
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://cdn.cphlab.xyz/github/profile/banner/drk/vijr80u543j_r4390g8gh453&043-g-34.png" alt="GitHub Star 2023"/></a>
