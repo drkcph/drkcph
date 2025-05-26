@@ -74,7 +74,7 @@
 
 | Widget                   | Descrição                                                   |
 |--------------------------|-------------------------------------------------------------|
-| Now Playing Spotify      | `![Spotify](https://spotify-readme.vercel.app/api/spotify)` :contentReference[oaicite:8]{index=8} |
+| Now Playing Spotify      | ![Spotify](https://spotify-readme.vercel.app/api/spotify) :contentReference[oaicite:8]{index=8} |
 | Goodreads Current Book   | `![Goodreads](https://goodreads-readme.vercel.app/api/book?user=EXEMPLO)` :contentReference[oaicite:9]{index=9} |
 | npm Downloads            | `![npm](https://img.shields.io/npm/dm/seu-pacote)` :contentReference[oaicite:10]{index=10} |
 | Random Dev Quote         | `![Quote](https://quotes-github-readme.vercel.app/api?type=dev)` :contentReference[oaicite:11]{index=11} |
