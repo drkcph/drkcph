@@ -136,7 +136,7 @@ Ferramentas e tecnologias que utilizo no desenvolvimento de sistemas completos, 
     title="XAMPP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" 
+    src="https://cdn.cphlab.xyz/github/profile/development/drk/xampp.svg" 
 />
 
 <br/>
