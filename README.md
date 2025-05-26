@@ -46,9 +46,11 @@ processos e elevam a experiência do usuário, sempre com qualidade e inovação
     <img alt="Pull Requests" title="Total de pull requests criadas"
       src="https://img.shields.io/badge/Repositories-4-2196f3?style=for-the-badge&logo=github&logoColor=white&labelColor=1769aa" />
   </a>
-  
-  <img alt="views" title="GitHub profile views"
-    src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_935743.svg" />
+
+  <a href="#">
+    <img alt="views" title="GitHub profile views"
+      src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_935743.svg"/>
+  </a>
 </p>
 <br />
 
