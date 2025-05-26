@@ -41,7 +41,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     <img 
       alt="Apoie com um café" 
       title="Apoie meu trabalho" 
-      src="https://img.shields.io/badge/Buy me a coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=ffcc00"
+      src="https://img.shields.io/badge/Buy me a coffee-FFDD00?&logo=buymeacoffee&logoColor=black&labelColor=ffcc00"
     />
   </a>
 
