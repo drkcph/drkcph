@@ -40,7 +40,7 @@ Atualmente, lidero a **[CipherLab™](https://www.cphlab.xyz)**, uma empresa esp
 <p  align="center">
  
   <!-- 🔁 Pull requests -->
-  <a href="https://github.com/pulls?q=author:Larissakich" target="_blank">
+  <a href="https://github.com/drkcph" target="_blank">
     <img 
       alt="Pull Requests" 
       title="Total de pull requests criadas" 
