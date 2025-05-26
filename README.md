@@ -5,6 +5,23 @@
 Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="center">
+  <!-- 🌐 Site Oficial -->
+  <a href="https://www.cphlab.xyz" target="_blank">
+    <img 
+      alt="Site Oficial" 
+      title="Visite o site oficial" 
+      src="https://img.shields.io/badge/Site Oficial-4f56dd?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=3e45c9"
+    />
+  </a>
+
+  <!-- 💬 Discord -->
+  <a href="https://www.cphlab.xyz/discord" target="_blank">
+    <img 
+      alt="Discord" 
+      title="Nosso servidor no Discord" 
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    />
+  </a>
   <a href="https://www.youtube.com/c/cipherlabtm?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://cdn.cphlab.xyz/github/profile/badges/drk/youtube-2.svg"/></a>
   <a href="https://www.youtube.com/c/cipherlabtm">
