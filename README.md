@@ -11,7 +11,6 @@
   </samp>
 </div>
 
-<br>
 ---
 
 Sou Murilo, desenvolvedor full stack com 2 anos de experiência focado na criação de soluções digitais personalizadas e
