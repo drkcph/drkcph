@@ -73,7 +73,7 @@ processos e elevam a experiência do usuário, sempre com qualidade e inovação
 Ferramentas e tecnologias que utilizo no desenvolvimento de sistemas completos, desde interfaces modernas até
 integrações com bancos de dados, APIs e automações de infraestrutura.
 
-<a href="#" align="left">
+<a href="#">
 <img  align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 20px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img  align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
