@@ -22,15 +22,15 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
     />
   </a>
-  <a href="https://www.youtube.com/c/cipherlabtm?sub_confirmation=1">
+  <a href="https://www.youtube.com/c/cipherlabtm?sub_confirmation=1" target="_blank">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://cdn.cphlab.xyz/github/profile/badges/drk/youtube-2.svg"/></a>
-  <a href="https://www.youtube.com/c/cipherlabtm">
+  <a href="https://www.youtube.com/c/cipherlabtm" target="_blank">
     <img alt="youtube views" title="YouTube views" src="https://cdn.cphlab.xyz/github/profile/badges/drk/view.svg"/></a> 
-  <a href="https://github.com/drkcph?tab=repositories&sort=stargazers">
+  <a href="https://github.com/drkcph?tab=repositories&sort=stargazers" target="_blank">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drkcph?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/drkcph?tab=followers">
+  <a href="https://github.com/drkcph?tab=followers" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drkcph?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/drkcph/Simple-View-Counter">
+  <a href="https://github.com/drkcph/Simple-View-Counter" target="_blank">
     <img alt="views" title="GitHub profile views" src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_935743.svg"/></a>
 </p>
 <br/>
