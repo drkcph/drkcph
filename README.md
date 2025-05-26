@@ -46,24 +46,15 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     />
   </a>
 
-  <!-- 💻 Linguagem mais usada -->
-  <a href="https://github.com/Larissakich" target="_blank">
-    <img 
-      alt="Linguagem principal" 
-      title="Linguagem mais usada" 
-      src="https://img.shields.io/github/languages/top/Larissakich?style=for-the-badge&logo=code&logoColor=white&color=ff4081&labelColor=d81b60"
-    />
+  <a>
+  <img 
+    alt="Disponível para freelance" 
+    title="Aceito projetos freelance" 
+    src="https://img.shields.io/badge/Freelance-Disponível-44cc11?style=for-the-badge&logo=simpleicons&logoColor=white&labelColor=36b20f"
+  />
   </a>
 
-  <!-- 📊 Linguagens usadas -->
-  <a href="https://github.com/Larissakich" target="_blank">
-    <img 
-      alt="Linguagens" 
-      title="Linguagens usadas nos repositórios" 
-      src="https://img.shields.io/github/languages/count/Larissakich?style=for-the-badge&logo=terminal&logoColor=white&color=607d8b&labelColor=455a64"
-    />
-  </a>
-
+   
 </p>
 
 ---
