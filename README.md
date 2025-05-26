@@ -55,14 +55,13 @@ Atualmente lidero a CPHLAB, empresa especializada em desenvolvimento de software
   <!-- 🕒 Commits no ano -->
   <a href="https://github.com/drkcph" target="_blank">
     <img 
-      alt="Commits em 2024" 
+      alt="Commits em 2025" 
       title="Commits neste ano" 
       src="https://custom-icon-badges.demolab.com/github/commits-this-year/drkcph?style=for-the-badge&color=blueviolet&labelColor=8a2be2&logo=git&logoColor=white&label=Commits"
     />
   </a>
 
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
