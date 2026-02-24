@@ -5,7 +5,7 @@
 <h1> Murilo Giroldo </h1>
     </b>
       <br>
-Desenvolvedor Full Stack Pleno • Fundador da CipherLab™
+Desenvolvedor Full Stack Pleno • Fundador da Wyze Code®
       <br>
 </div>
 
