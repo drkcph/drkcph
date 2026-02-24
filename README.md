@@ -20,52 +20,6 @@ de softwares customizados, que abrangem desde aplicações web dinâmicas e sist
 backend eficientes e interfaces adaptadas para ambientes específicos. Nosso foco está em entregar soluções que otimizam
 processos e elevam a experiência do usuário, sempre com qualidade e inovação.
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdrkcph&s=21&c=fff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-
-<p align="center">
-  <a href="https://www.cphlab.xyz" target="_blank">
-    <img alt="Site Oficial" title="Visite o site oficial"
-      src="https://img.shields.io/badge/Website-6f42c1?style=for-the-badge&logo=qlik&logoColor=white" />
-  </a>
-
-  <a href="https://www.cphlab.xyz/discord" target="_blank">
-    <img alt="Discord" title="Nosso servidor no Discord"
-      src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/drkcph?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="total stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/drkcph?color=ff6f61&style=for-the-badge&labelColor=ff3b2f&logo=star" />
-  </a>
-  
-  <a href="https://github.com/drkcph?tab=followers" target="_blank">
-    <img alt="followers" title="Follow me on Github"
-      src="https://custom-icon-badges.demolab.com/github/followers/drkcph?color=43a047&labelColor=2e7d32&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/drkcph" target="_blank">
-    <img alt="Pull Requests" title="Total de pull requests criadas"
-      src="https://img.shields.io/badge/Repositories-4-2196f3?style=for-the-badge&logo=github&logoColor=white&labelColor=1769aa" />
-  </a>
-
-  <a href="#">
-    <img alt="views" title="GitHub profile views"
-      src="https://cdn.cphlab.xyz/github/profile/badges/drk/n848350909gh9293r-05y409y_9357432.svg"/>
-  </a>
-</p>
-<br />
-
-<p align="center">
-
-
-  <a href="https://www.cphlab.xyz/discord" target="_blank">
-    <img alt="Disponível para freelance" title="Aceito projetos freelance"
-      src="https://img.shields.io/badge/Freelancer-Disponível-44cc11?style=for-the-badge&logo=simpleicons&logoColor=white&labelColor=36b20f" />
-  </a>
-
-</p>
 
 ---
 
