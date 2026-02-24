@@ -11,11 +11,11 @@ Desenvolvedor Full Stack Pleno • Fundador da Wyze Code®
 
 ---
 
-Sou Murilo, desenvolvedor full stack Pleno com 2 anos de experiência focado na criação de soluções digitais personalizadas e
+Sou Murilo, desenvolvedor full stack Pleno com 4 anos de experiência focado na criação de soluções digitais personalizadas e
 escaláveis. Minha atuação envolve automação de processos, desenvolvimento de interfaces modernas e responsivas, além da
 integração robusta entre sistemas utilizando tecnologias consolidadas e melhores práticas de mercado.
 
-Atualmente, lidero a **[CipherLab™](https://www.cphlab.xyz)**, uma empresa especializada no desenvolvimento sob demanda
+Atualmente, lidero a Wyze Code®, uma empresa especializada no desenvolvimento sob demanda
 de softwares customizados, que abrangem desde aplicações web dinâmicas e sistemas de gerenciamento até automações
 backend eficientes e interfaces adaptadas para ambientes específicos. Nosso foco está em entregar soluções que otimizam
 processos e elevam a experiência do usuário, sempre com qualidade e inovação.
