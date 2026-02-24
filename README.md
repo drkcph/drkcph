@@ -42,6 +42,10 @@ integrações com bancos de dados, APIs e automações de infraestrutura.
   src="https://www.svgrepo.com/show/354126/npm-icon.svg" />
 <img  align="left" alt="dc" title="dc" width="30px" style="padding-right: 10px;"
   src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+    <img  align="left" alt="dc" title="Next" width="30px" style="padding-right: 10px;"
+  src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+    <img  align="left" alt="Node.js" title="React" width="30px" style="padding-right: 10px;"
+  src="https://www.svgrepo.com/show/355190/reactjs.svg" />
 <img  align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;"
   src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
 <img  align="left" alt="figma" title="figma" width="30px" style="padding-right: 10px;"
